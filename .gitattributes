@@ -1,0 +1,3 @@
+# This is a faithful mirror of upstream DCS CoNLL-U data (LF line endings).
+# Force LF on checkout so Windows git never rewrites the corpus with CRLF.
+* text=auto eol=lf

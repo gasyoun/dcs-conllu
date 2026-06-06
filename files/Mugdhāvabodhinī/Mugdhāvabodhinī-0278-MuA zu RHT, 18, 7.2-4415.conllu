@@ -1,0 +1,80 @@
+## text: Mugdhāvabodhinī
+## text_id: 161
+## chapter: MuA zu RHT, 18, 7.2
+## chapter_id: 4415
+# text = viśeṣāccāha tadanvityādi
+# sent_id = 329857
+# sent_counter = 1
+# sent_subcounter = 
+1-3	viśeṣāccāha	_	_	_	_	_	_	_	_
+1	viśeṣāt	viśeṣāt	ADV	_		_	_	_	LemmaId=202719|OccId=1759524|Unsandhied=viśeṣāt|UnsandhiedReconstructed=True|WordSem=97107
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1759525|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+3	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=1759526|Unsandhied=āha|WordSem=88742
+4-5	tadanvityādi	_	_	_	_	_	_	_	_
+4	tadanu	tadanu	ADV	_		_	_	_	LemmaId=96023|OccId=1759527|Unsandhied=tadanu|UnsandhiedReconstructed=True|WordSem=96965
+5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1759528|Unsandhied=ityādi|UnsandhiedReconstructed=True
+
+# text = tadanu lākṣāmatsyādipittabhāvanāyā anantaraṃ tasmin lākṣādikalke krāmaṇamṛdite kāntarasakadaradaraktatailendragopādyair mṛdite sati punastatkalkena taccūrṇenāpi piṇḍitarasena vedhaḥ kartavya iti śeṣaḥ
+# sent_id = 329858
+# sent_counter = 2
+# sent_subcounter = 
+1	tadanu	tadanu	ADV	_		_	_	_	LemmaId=96023|OccId=1759529|Unsandhied=tadanu|UnsandhiedReconstructed=True|WordSem=96965
+2-6	lākṣāmatsyādipittabhāvanāyā	_	_	_	_	_	_	_	_
+2	lākṣā	lākṣā	NOUN	_	Case=Cpd	_	_	_	LemmaId=81283|OccId=1759530|Unsandhied=lākṣā|UnsandhiedReconstructed=True
+3	matsya	matsya	NOUN	_	Case=Cpd	_	_	_	LemmaId=27173|OccId=1759531|Unsandhied=matsya|UnsandhiedReconstructed=True|WordSem=12408
+4	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=1759532|Unsandhied=ādi|UnsandhiedReconstructed=True|WordSem=128322
+5	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=1759533|Unsandhied=pitta|UnsandhiedReconstructed=True|WordSem=26525
+6	bhāvanāyāḥ	bhāvanā	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=49955|OccId=1759534|Unsandhied=bhāvanāyāḥ|UnsandhiedReconstructed=True|WordSem=58896
+7	anantaraṃ	anantaram	ADV	_		_	_	_	LemmaId=203043|OccId=1759535|Unsandhied=anantaram|UnsandhiedReconstructed=True|WordSem=96965
+8	tasmin	tad	PRON	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1759536|Unsandhied=tasmin|UnsandhiedReconstructed=True|WordSem=129840
+9-11	lākṣādikalke	_	_	_	_	_	_	_	_
+9	lākṣā	lākṣā	NOUN	_	Case=Cpd	_	_	_	LemmaId=81283|OccId=1759537|Unsandhied=lākṣā|UnsandhiedReconstructed=True|WordSem=63788
+10	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=1759538|Unsandhied=ādi|UnsandhiedReconstructed=True|WordSem=128322
+11	kalke	kalka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=12685|OccId=1759539|Unsandhied=kalke|UnsandhiedReconstructed=True|WordSem=63812
+12-13	krāmaṇamṛdite	_	_	_	_	_	_	_	_
+12	krāmaṇa	krāmaṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=133777|OccId=1759540|Unsandhied=krāmaṇa|UnsandhiedReconstructed=True|WordSem=126688
+13	mṛdite	mṛd	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158891|OccId=1759541|Unsandhied=mṛdite|UnsandhiedReconstructed=True|WordSem=89808
+14-20	kāntarasakadaradaraktatailendragopādyair	_	_	_	_	_	_	_	_
+14	kānta	kānta	NOUN	_	Case=Cpd	_	_	_	LemmaId=13609|OccId=1759742|Unsandhied=kānta|UnsandhiedReconstructed=True|WordSem=129846
+15	rasaka	rasaka	NOUN	_	Case=Cpd	_	_	_	LemmaId=69792|OccId=1759743|Unsandhied=rasaka|UnsandhiedReconstructed=True|WordSem=129882
+16	darada	darada	NOUN	_	Case=Cpd	_	_	_	LemmaId=146386|OccId=1759744|Unsandhied=darada|UnsandhiedReconstructed=True|WordSem=63652
+17	rakta	rakta	NOUN	_	Case=Cpd	_	_	_	LemmaId=65581|OccId=1759745|Unsandhied=rakta|UnsandhiedReconstructed=True|WordSem=129719
+18	taila	taila	NOUN	_	Case=Cpd	_	_	_	LemmaId=83500|OccId=1759746|Unsandhied=taila|UnsandhiedReconstructed=True|WordSem=65065
+19	indragopa	indragopa	NOUN	_	Case=Cpd	_	_	_	LemmaId=63485|OccId=1759747|Unsandhied=indragopa|UnsandhiedReconstructed=True|WordSem=65165
+20	ādyaiḥ	ādya	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=58029|OccId=1759748|Unsandhied=ādyaiḥ|UnsandhiedReconstructed=True|WordSem=128334
+21	mṛdite	mṛd	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158891|OccId=1759542|Unsandhied=mṛdite|UnsandhiedReconstructed=True|WordSem=89808
+22	sati	as	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=1759543|Unsandhied=sati|UnsandhiedReconstructed=True|Punctuation=comma|WordSem=95892
+23-25	punastatkalkena	_	_	_	_	_	_	_	_
+23	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=1759544|Unsandhied=punar|UnsandhiedReconstructed=True|WordSem=96784
+24	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=1759545|Unsandhied=tad|UnsandhiedReconstructed=True|WordSem=129840
+25	kalkena	kalka	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=12685|OccId=1759546|Unsandhied=kalkena|UnsandhiedReconstructed=True|WordSem=63812
+26-28	taccūrṇenāpi	_	_	_	_	_	_	_	_
+26	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=1759547|Unsandhied=tad|UnsandhiedReconstructed=True|WordSem=129840
+27	cūrṇena	cūrṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=52112|OccId=1759548|Unsandhied=cūrṇena|UnsandhiedReconstructed=True|WordSem=65211
+28	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1759549|Unsandhied=api|UnsandhiedReconstructed=True
+29-30	piṇḍitarasena	_	_	_	_	_	_	_	_
+29	piṇḍita	piṇḍay	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=168351|OccId=1759550|Unsandhied=piṇḍita|UnsandhiedReconstructed=True|WordSem=86441
+30	raseṇa	rasa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=1759551|Unsandhied=raseṇa|UnsandhiedReconstructed=True|WordSem=63556
+31	vedhaḥ	vedha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=143105|OccId=1759552|Unsandhied=vedhaḥ|UnsandhiedReconstructed=True|WordSem=100511
+32	kartavya	kṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=156168|OccId=1759553|Unsandhied=kartavyaḥ|UnsandhiedReconstructed=True|WordSem=92041
+33	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1759554|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
+34	śeṣaḥ	śeṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127336|OccId=1759555|Unsandhied=śeṣaḥ|UnsandhiedReconstructed=True|WordSem=29789
+
+# text = kasmin tāre vā śulbe vā vidrute jalarūpe kārya ityarthaḥ
+# sent_id = 329859
+# sent_counter = 3
+# sent_subcounter = 
+1	kasmin	ka	PRON	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37878|OccId=1759556|Unsandhied=kasmin|UnsandhiedReconstructed=True
+2	tāre	tāra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=97328|OccId=1759557|Unsandhied=tāre|UnsandhiedReconstructed=True
+3	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1759558|Unsandhied=vā|UnsandhiedReconstructed=True
+4	śulbe	śulba	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=126033|OccId=1759559|Unsandhied=śulbe|UnsandhiedReconstructed=True
+5	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1759560|Unsandhied=vā|UnsandhiedReconstructed=True|Punctuation=fullStop
+6	vidrute	vidru	VERB	_	Case=Loc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163345|OccId=1759561|Unsandhied=vidrute|UnsandhiedReconstructed=True
+7-8	jalarūpe	_	_	_	_	_	_	_	_
+7	jala	jala	NOUN	_	Case=Cpd	_	_	_	LemmaId=88026|OccId=1759562|Unsandhied=jala|UnsandhiedReconstructed=True
+8	rūpe	rūpa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=1759563|Unsandhied=rūpe|UnsandhiedReconstructed=True
+9	kārya	kṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=156168|OccId=1759564|Unsandhied=kāryaḥ|UnsandhiedReconstructed=True
+10-11	ityarthaḥ	_	_	_	_	_	_	_	_
+10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1759565|Unsandhied=iti|UnsandhiedReconstructed=True
+11	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=1759566|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+
