@@ -1,3 +1,5 @@
+_Created: 06-06-2026 · Last updated: 05-09-2026_
+
 # DCS in conllu format
 
 ## General notes
@@ -57,3 +59,5 @@ year = {2010--2024}
 ## License
 
 The data in this directory are licensed under the Creative Commons BY 4.0 (CC BY 4.0) license.
+
+_Dr. Mārcis Gasūns_
